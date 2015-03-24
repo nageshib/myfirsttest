@@ -1,1 +1,1 @@
-this is my --amend changes
+this is my --amend changes test
